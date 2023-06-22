@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-pip install xgboost
-
-
-# In[6]:
-
-
 import pandas as pd
 import xgboost as xgb
 from sklearn.impute import KNNImputer
